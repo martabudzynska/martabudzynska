@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martabudzynska
+- 👋 Hi, I’m Marta
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning MySQL
 - 💞️ I’m looking for first internship
